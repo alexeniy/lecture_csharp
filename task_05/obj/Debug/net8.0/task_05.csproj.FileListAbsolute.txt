@@ -1,0 +1,15 @@
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.AssemblyInfoInputs.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.AssemblyInfo.cs
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.csproj.CoreCompileInputs.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.sourcelink.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/bin/Debug/net8.0/task_05
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/bin/Debug/net8.0/task_05.deps.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/bin/Debug/net8.0/task_05.runtimeconfig.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/bin/Debug/net8.0/task_05.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/bin/Debug/net8.0/task_05.pdb
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/refint/task_05.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.pdb
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/task_05.genruntimeconfig.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_05/obj/Debug/net8.0/ref/task_05.dll
