@@ -1,0 +1,15 @@
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.AssemblyInfoInputs.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.AssemblyInfo.cs
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.csproj.CoreCompileInputs.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.sourcelink.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/bin/Debug/net8.0/task_06
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/bin/Debug/net8.0/task_06.deps.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/bin/Debug/net8.0/task_06.runtimeconfig.json
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/bin/Debug/net8.0/task_06.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/bin/Debug/net8.0/task_06.pdb
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/refint/task_06.dll
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.pdb
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/task_06.genruntimeconfig.cache
+/Users/alexeykorostelyov/Desktop/csharp/lecture_01/task_06/obj/Debug/net8.0/ref/task_06.dll
